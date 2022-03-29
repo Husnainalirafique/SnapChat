@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SnapChat</string>
+    <string name="textview">TextView</string>
+    <string name="snap_chat">Snap Chat</string>
+    <string name="log_in">log in</string>
+    <string name="sign_up">sign up</string>
+</resources>
